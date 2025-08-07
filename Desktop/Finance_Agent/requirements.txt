@@ -1,0 +1,13 @@
+streamlit
+openai
+requests
+python-dotenv
+duckduckgo-search
+fastapi
+uvicorn
+groq
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+git+https://github.com/stripe/phi.git
